@@ -1,1 +1,1 @@
-ttt
+print("something") 
